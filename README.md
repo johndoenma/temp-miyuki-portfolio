@@ -1,7 +1,7 @@
 # Miyuki's 2020 Portfolio
 This is the third version of mMiyuki's portfolio site in New Media Art program at KCC.
 
-[View Demo](https://miyujohndoenmakings.github.io/temp-miyuki-portfolio/)
+[View Demo](https://johndoenma.github.io/temp-miyuki-portfolio/)
 
 ## Updates
 
